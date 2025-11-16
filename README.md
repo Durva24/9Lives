@@ -180,14 +180,7 @@ Want to add to this beautiful chaos? Here's how to become a code cultist:
 ---
 
 ## 👥 **The Dark Lords of Code**
-
-### **Om Patil** 🐱‍💻
-*Chief Cat Wrangler & Master of Digital Darkness*
-- GitHub: [@omsandippatil](https://github.com/omsandippatil)
-- Specializes in: Making algorithms cry and cats purr
-- Favorite Cat Breed: Whatever breed has the darkest soul
-- Coffee Addiction Level: Transcendent
-
+ 
 ### **Durva Dongre** 🐱‍🚀  
 *AI Whisperer & UX Chaos Coordinator*
 - GitHub: [@durva24](https://github.com/durva24)
@@ -219,12 +212,7 @@ Licensed under the **MIT License** - because even chaos needs structure.
 ## 📞 **Reach Out (If You Dare)**
 
 Need help? Found a bug? Want to report that the platform is too addictive?
-
-- 🐛 **Issues**: [GitHub Issues](https://github.com/omsandippatil/9-lives/issues) (our digital confessional)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/omsandippatil/9-lives/discussions) (the digital water cooler)
-- 📧 **Email**: 9lives.support@email.com (messages get answered between 2-4 AM)
-- 🐱 **Discord**: Join our Coding Cult (password: "fisharelife")
-
+ 
 ---
 
 ## 🎭 **Parting Words from the Abyss**
