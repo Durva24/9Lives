@@ -77,7 +77,7 @@ Here, learning DSA isn't just education—it's survival. You're not just a progr
 
 ```bash
 # Clone the forbidden knowledge
-git clone https://github.com/omsandippatil/9-lives.git
+git clone https://github.com/durva24/9-lives.git
 cd 9-lives
 
 # Summon the dependencies (feed the code demons)
